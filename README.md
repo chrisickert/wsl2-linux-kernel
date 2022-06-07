@@ -2,7 +2,7 @@
 Provides pre-built releases of Microsoft's WSL2-Linux-Kernel in a more frequent way than Microsoft does.
 
 * Uses the the [kernel.org](https://kernel.org/) sources
-* ... as well as [Microsoft's WSL2 kernel config](https://github.com/microsoft/WSL2-Linux-Kernel/blob/linux-msft-wsl-5.10.y/Microsoft/config-wsl) (the x86 / x86_64 version)
+* ... as well as [Microsoft's WSL2 kernel config](https://github.com/microsoft/WSL2-Linux-Kernel/blob/linux-msft-wsl-5.10.y/Microsoft/config-wsl) (the x86 / x86_64 version - no ARM builds supported at the moment)
 
 Find the pre-built binaries in the release section. There's no trojans, malicious stuff or something like that compiled into it. Trust me! :wink: (or compile yourself)
 
